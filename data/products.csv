@@ -1,0 +1,21 @@
+product_id,product_name,category,description,price
+P001,Wireless Headphones,Electronics,Bluetooth wireless headphones with noise cancellation,2499
+P002,Gaming Mouse,Electronics,RGB gaming mouse with adjustable DPI,899
+P003,Mechanical Keyboard,Electronics,Mechanical keyboard with RGB backlighting,2499
+P004,Smart Watch,Electronics,Fitness smartwatch with heart rate tracking,3999
+P005,Bluetooth Speaker,Electronics,Portable wireless speaker with deep bass,1799
+P006,Running Shoes,Fashion,Lightweight sports shoes for running and fitness,1999
+P007,Casual Sneakers,Fashion,Comfortable everyday casual sneakers,1599
+P008,Backpack,Fashion,Water resistant laptop backpack for college and travel,1299
+P009,Smartphone,Electronics,Android smartphone with powerful processor and camera,15999
+P010,Laptop,Electronics,High performance laptop for programming and productivity,55999
+P011,Python Programming Book,Books,Beginner friendly Python programming and coding book,599
+P012,Machine Learning Book,Books,Machine learning algorithms and artificial intelligence textbook,899
+P013,Data Science Course,Education,Online data science course covering Python pandas and machine learning,1499
+P014,Web Development Course,Education,Full stack web development course with HTML CSS and JavaScript,1299
+P015,Yoga Mat,Fitness,Non slip exercise yoga mat for home workouts,699
+P016,Dumbbell Set,Fitness,Adjustable dumbbell set for strength training,2499
+P017,Water Bottle,Lifestyle,Insulated stainless steel reusable water bottle,499
+P018,Desk Lamp,Lifestyle,LED study desk lamp with adjustable brightness,899
+P019,Gaming Headset,Electronics,Wired gaming headset with microphone and surround sound,1999
+P020,Travel Trolley Bag,Fashion,Lightweight travel luggage trolley bag,2999
